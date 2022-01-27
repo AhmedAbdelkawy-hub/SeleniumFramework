@@ -3,7 +3,7 @@
 And we are using BDD, DDTframworks in the project 
 
 
-#Tech Stach:
+# Tech Stach:
 -java
 -Maven
 -TestNG
