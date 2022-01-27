@@ -1,0 +1,16 @@
+pages\ShopiingCardPage.class
+pages\CompareListPage.class
+pages\WishListPage.class
+pages\HomePage.class
+pages\ProductReviewDetailsPage.class
+pages\ProductEmailToFriendPage.class
+pages\ContactUsPage.class
+pages\DesktposPages.class
+pages\SearchResultProductDetailsPage.class
+pages\UserLoginpage.class
+pages\LogoutPage.class
+pages\ChangePasswordPage.class
+pages\AddReviewProjectPage.class
+pages\SearchResultAllProductPage.class
+pages\MyaccountPage.class
+pages\UserRegistrationPage.class
