@@ -4,6 +4,7 @@
   <test name="Regresssion Test">
     <classes>
       <class name="tests.UserRegistrationTest"/>
+       <class name="tests.UserLoginTest"/>
     </classes>
   </test> 
 </suite> 
